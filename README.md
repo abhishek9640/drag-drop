@@ -85,6 +85,3 @@ The UI is built with accessibility and user experience in mind:
 - **React Context API**: State management
 - **Bootstrap Icons**: Icon library
 
-## License
-
-MIT
